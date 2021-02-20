@@ -1,7 +1,8 @@
 package reader
 
 import (
-	regexpr
+	"regexpr"
+	. "types"
 )
 
 type READER struct {
